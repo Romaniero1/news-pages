@@ -7,7 +7,7 @@ export const Grid = () => {
             <div className=" bg-red-500 w-[250px] h-[250px] rounded-lg">Text</div>
             <div className=" bg-red-500 w-[250px] h-[250px] rounded-lg">Text</div>
             <div className=" bg-red-500 w-[250px] h-[250px] rounded-lg">Text</div>
-            <div className=" bg-red-500 w-[250px] h-[250px] rounded-lg">Text</div>
+            <div className=" bg-red-500 w-[250px] h-[250px] rounded-lg">Tex</div>
         </div>
         </div>
         
